@@ -1,0 +1,4 @@
+openapi:
+  renderSingleFile: true
+  layout:
+    name: '@theme/openapi'
