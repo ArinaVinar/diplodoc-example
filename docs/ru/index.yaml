@@ -8,7 +8,7 @@ links:
     href: anotherpage.md
   - title: Подраздел на главной странице
     href: sub-section/
-  - title: Pet Store API
-    href: petstore-api-draft.yaml
+  - title: Swagger Petstore API
+    href: petstore-api-draft/
 
 

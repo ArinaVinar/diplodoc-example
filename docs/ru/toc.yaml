@@ -11,7 +11,10 @@ items:
     include:
       path: sub-section/toc.yaml
       mode: link
-  - name: Pet store API
+  - name: Swagger Petstore API
     include:
-      path: petstore-api-draft.yaml
+      path: petstore-api-draft
+      includers:
+        - name: openapi
+          input: ru/petstore-api-draft/petstore-api-draft.yaml
       mode: link
